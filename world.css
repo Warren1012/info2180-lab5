@@ -1,1 +1,70 @@
 /* Add your own styles */
+h1{
+    padding-bottom: 80px;
+    background-color:darkblue ;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color: lavenderblush;
+  }
+
+
+main{
+    text-align: center;
+    padding-left:10em;
+    float: center;
+}
+  input{
+    height: 2.5em;
+    width: 40em;
+    border-radius: 5px;
+    
+  }
+   button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  cities.button {
+    background-color: blue; 
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  
+  table{
+    border-collapse: collapse;
+    width:100%;
+    padding-top: 2em;
+    float: center;
+}
+table td, th {
+    border: 2px solid #ddd;
+    padding: 10px;
+    
+  }
+
+  table td{
+    padding-top: 2em;
+  }
+
+Table th {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+    background-color:darkblue;
+    color: white;
+  }
